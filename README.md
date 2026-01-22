@@ -40,8 +40,8 @@ ai-sql-generator/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-github-repo-url>
-cd ai-sql-generator
+git clone https://github.com/chhavviii/SQLGenie.git
+cd SQLGenie
 ```
 ### 2️⃣ Create & Activate Virtual Environment
 ``` bash
