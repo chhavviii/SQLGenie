@@ -63,7 +63,7 @@ OPENAI_API_KEY=sk-your-api-key-here
 streamlit run app.py
 ```
 
-##🧪 Example Inputs
+## 🧪 Example Inputs
 Find average order value per customer
 
 Get top 5 products by revenue last month
